@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_PW": "PHpid_75",
+        "JWT_KEY": "PHpid_75_PHpid_75"
+    }
+}
